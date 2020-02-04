@@ -1,5 +1,11 @@
 # awesome-everything
 
+Bookmarks.
+
+[What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
+
+This might not be an awesome list, because it is not focused on a certain topic. But it is curated and only contains things I can recommend.
+
 
 ## CSS
 
