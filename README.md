@@ -8,6 +8,7 @@ This might not be an awesome list, because it is not focused on a certain topic.
 
 ## Components
 
+ - [App Layout](https://github.com/darrenmothersele/app-layout) - a resizable app layout using CSS Grid
  - [Swipe Button](https://github.com/darrenmothersele/swipe-button/blob/master/src/app/components/swipe-button.component.ts) - a bit like the Amazon buy now button, requires full swipe to activate
 
 ## CSS
