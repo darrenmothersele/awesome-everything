@@ -6,6 +6,9 @@ Bookmarks.
 
 This might not be an awesome list, because it is not focused on a certain topic. But it is curated and only contains things I can recommend.
 
+## Components
+
+ - [Swipe Button](https://github.com/darrenmothersele/swipe-button/blob/master/src/app/components/swipe-button.component.ts) - a bit like the Amazon buy now button, requires full swipe to activate
 
 ## CSS
 
